@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "env_mac/bin/python",
+    "python.formatting.autopep8Args": ["--indent-size=4"]
+}
