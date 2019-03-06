@@ -23,29 +23,49 @@ class Graph():
 
     def dfs(self, visited, start_vertex,recur_stack):
         print(recur_stack)
+
+        
+
         if visited[start_vertex] == False and start_vertex not in recur_stack:
+            recur_stack.append(start_vertex)
             visited[start_vertex] = True
-            #print(start_vertex, end=" ")
+            print(start_vertex, end=" ")
             for neighbour in self.graph[start_vertex]:
-                recur_stack.append(start_vertex)
-                self.dfs(visited, neighbour,recur_stack)
-        else:
-            return  False
+                ret = self.dfs(visited, neighbour,recur_stack)
+                if ret:
+                    return ret
+        elif start_vertex in recur_stack:
+            return  True
+
+        recur_stack.pop(start_vertex)
+        return False
+
 
     def is_cycle_present(self, start_vertex):
         visited = [False]*len(self.graph)
         recur_stack = []
+
+        
         return self.dfs(visited, start_vertex,recur_stack)
 
 
 if __name__ == "__main__":
     g = Graph()
+
+    """
     g.add_edge(0, 1)
     g.add_edge(0, 2)
     g.add_edge(1, 2)
     g.add_edge(2, 0)
     g.add_edge(2, 3)
     g.add_edge(3, 3)
+    """
+
+    g.add_edge(0, 1)
+    g.add_edge(1, 2)
+    g.add_edge(2,0)
+    g.add_edge(3,3)
+
 
     print(g.__dict__)
 
