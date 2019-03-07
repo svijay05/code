@@ -24,7 +24,9 @@ class Graph():
     def dfs(self, visited, start_vertex,recur_stack):
         print(recur_stack)
 
-        
+
+        if start_vertex is None:
+            return False
 
         if visited[start_vertex] == False and start_vertex not in recur_stack:
             recur_stack.append(start_vertex)
@@ -63,8 +65,8 @@ if __name__ == "__main__":
 
     g.add_edge(0, 1)
     g.add_edge(1, 2)
-    g.add_edge(2,0)
-    g.add_edge(3,3)
+    g.add_edge(2,3)
+    g.add_edge(3,None)
 
 
     print(g.__dict__)
