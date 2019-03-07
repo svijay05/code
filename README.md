@@ -5,32 +5,57 @@ algorithm and datastructure solutions
 
 ### Arrays :
 
-Subarray with given sum
-Kadane’s Algorithm
-Missing number in array
-Subarray with given sum
-Sort an array of 0s, 1s and 2s
-Equilibrium point
-Maximum sum increasing subsequence
-Leaders in an array
-Minimum Platforms
-Maximum of all subarrays of size k
-Reverse array in groups
-K’th smallest element
-Trapping Rain Water
-Pythagorean Triplet
-Chocolate Distribution Problem
-Stock buy and sell
-Element with left side smaller and right side greater
-Convert array into Zig-Zag fashion
-Find the element that appears once in sorted array
-Kth largest element in a stream
-Relative Sorting
-Spirally traversing a matrix
-Sorting Elements of an Array by Frequency
-Largest Number formed from an Array
-Largest subarray of 0’s and 1’s
-Solved the above? Go for some more Questions
+1. Subarray with given sum
+
+2.Kadane’s Algorithm
+
+3. Missing number in array
+
+4. Subarray with given sum
+
+5. Sort an array of 0s, 1s and 2s
+
+6. Equilibrium point
+
+7. Maximum sum increasing subsequence 
+
+8. Leaders in an array
+
+9. Minimum Platforms
+
+10 .Maximum of all subarrays of size k
+
+11. Reverse array in groups
+
+12. K’th smallest element
+
+13. Trapping Rain Water
+
+14. Pythagorean Triplet
+
+15. Chocolate Distribution Problem
+
+16. Stock buy and sell
+
+17. Element with left side smaller and right side greater
+
+18. Convert array into Zig-Zag fashion
+
+19. Find the element that appears once in sorted array
+
+20 Kth largest element in a stream
+
+21. Relative Sorting
+
+22. Spirally traversing a matrix
+
+23. Sorting Elements of an Array by Frequency
+
+24. Largest Number formed from an Array
+
+25. Largest subarray of 0’s and 1’s
+
+26. Solved the above? Go for some more Questions
 
 ### String :
 
