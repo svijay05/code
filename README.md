@@ -7,7 +7,7 @@ algorithm and datastructure solutions
 
 1. Subarray with given sum
 
-2.Kadane’s Algorithm
+2. Kadane’s Algorithm
 
 3. Missing number in array
 
@@ -23,7 +23,7 @@ algorithm and datastructure solutions
 
 9. Minimum Platforms
 
-10 .Maximum of all subarrays of size k
+10. Maximum of all subarrays of size k
 
 11. Reverse array in groups
 
@@ -43,7 +43,7 @@ algorithm and datastructure solutions
 
 19. Find the element that appears once in sorted array
 
-20 Kth largest element in a stream
+20. Kth largest element in a stream
 
 21. Relative Sorting
 
@@ -59,133 +59,222 @@ algorithm and datastructure solutions
 
 ### String :
 
-Parenthesis Checker
-Reverse words in a given string
-Permutations of a given string
-Longest Palindrome in a String
-Recursively remove all adjacent duplicates
-Check if string is rotated by two places
-Roman Number to Integer
-Anagram
-Longest Common Substring
-Remove Duplicates
-Form a Palindrome
-Longest Distinct Characters in the string
-Implement Atoi
-Implement strstr
-Longest Common Prefix
-Solved the above? Go for some more Questions
+1. Parenthesis Checker
+
+2. Reverse words in a given string
+
+3. Permutations of a given string
+
+4. Longest Palindrome in a String
+
+5. Recursively remove all adjacent duplicates
+
+6. Check if string is rotated by two places
+
+7. Roman Number to Integer
+
+8. Anagram
+
+9. Longest Common Substring
+
+10. Remove Duplicates
+
+11. Form a Palindrome
+
+12. Longest Distinct Characters in the string
+
+13. Implement Atoi
+
+14. Implement strstr
+
+15. Longest Common Prefix
 
 ### Linked List :
 
-Finding middle element in a linked list
-Reverse a linked list
-Rotate a Linked List
-Reverse a Linked List in groups of given size
-Detect Loop in linked list
-Remove loop in Linked List
-n’th node from end of linked list
-Flattening a Linked List
-Merge two sorted linked lists
-Intersection point of two Linked Lists
-Pairwise swap of a linked list
-Add two numbers represented by linked lists
-Check if Linked List is Palindrome
-Implement Queue using Linked List
-Implement Stack using Linked List
-Given a linked list of 0s, 1s and 2s, sort it
-Delete without head pointer
+1. Finding middle element in a linked list
+
+2. Reverse a linked list
+
+3. Rotate a Linked List
+
+4. Reverse a Linked List in groups of given size
+
+5. Detect Loop in linked list
+
+6. Remove loop in Linked List
+
+7. n’th node from end of linked list
+
+8. Flattening a Linked List
+
+9. Merge two sorted linked lists
+
+10. Intersection point of two Linked Lists
+
+11. Pairwise swap of a linked list
+
+12. Add two numbers represented by linked lists
+
+13. Check if Linked List is Palindrome
+
+14. Implement Queue using Linked List
+
+15. Implement Stack using Linked List
+
+16. Given a linked list of 0s, 1s and 2s, sort it
+
+17. Delete without head pointer
 
 
 ### Stack and Queue :
 
-Next larger element
-Queue using two Stacks
-Stack using two queues
-Get minimum element from stack
-LRU Cache
-Circular tour
-First non-repeating character in a stream
-Rotten Oranges
+1. Next larger element
+
+2. Queue using two Stacks
+
+3. Stack using two queues
+
+4. Get minimum element from stack
+
+5. LRU Cache
+
+6. Circular tour
+
+7. First non-repeating character in a stream
+
+8. Rotten Oranges
 
 
 ### Tree :
 
-Print Left View of Binary Tree
-Check for BST
-Print Bottom View of Binary Tree
-Print a Binary Tree in Vertical Order
-Level order traversal in spiral form
-Connect Nodes at Same Level
-Lowest Common Ancestor in a BST
-Convert a given Binary Tree to Doubly Linked List
-Write Code to Determine if Two Trees are Identical or Not
-Given a binary tree, check whether it is a mirror of itself
-Height of Binary Tree
-Maximum Path Sum
-Diameter of a Binary Tree
-Number of leaf nodes
-Check if given Binary Tree is Height Balanced or Not
-Serialize and Deserialize a Binary Tree
-Solved the above? Go for some more Questions
+1. Print Left View of Binary Tree
+
+2. Check for BST
+
+3. Print Bottom View of Binary Tree
+
+4. Print a Binary Tree in Vertical Order
+
+5. Level order traversal in spiral form
+
+6. Connect Nodes at Same Level
+
+7. Lowest Common Ancestor in a BST
+
+8. Convert a given Binary Tree to Doubly Linked List
+
+9. Write Code to Determine if Two Trees are Identical or Not
+
+10. Given a binary tree, check whether it is a mirror of itself
+
+11. Height of Binary Tree
+
+12. Maximum Path Sum
+
+13. Diameter of a Binary Tree
+
+14. Number of leaf nodes
+
+15. Check if given Binary Tree is Height Balanced or Not
+
+16. Serialize and Deserialize a Binary Tree
+
 
 ### Heap :
 
-Find median in a stream
-Heap Sort
-Operations on Binary Min Heap
-Rearrange characters
-Kth largest element in a stream
-Merge K sorted linked lists
+1. Find median in a stream
+
+2. Heap Sort
+
+3. Operations on Binary Min Heap
+
+4. Rearrange characters
+
+5. Kth largest element in a stream
+
+6. Merge K sorted linked lists
 
 
 ### Recursion :
 
 
-Flood fill Algorithm
-Number of paths
-Combination Sum – Part 2
-Special Keyboard
-Water Overflow
-Josephus problem
+1. Flood fill Algorithm
+
+2. Number of paths
+
+3. Combination Sum – Part 2
+
+4. Special Keyboard
+
+5. Water Overflow
+
+6. Josephus problem
 
 
 ### Hashing :
 
-Largest subarray with 0 sum
-Swapping pairs make sum equal
-Count distinct elements in every window
-Array Pair Sum Divisibility Problem
-Longest consecutive subsequence
-Array Subset of another array
-Find all pairs with a given sum
-Find first repeated character
-Zero Sum Subarrays
-Minimum indexed character
-Check if two arrays are equal or not
-Uncommon characters
-Smallest window in a string containing all the characters of another string
-First element to occur k times
-Check if frequencies can be equal
+1. Largest subarray with 0 sum
+
+2. Swapping pairs make sum equal
+
+3. Count distinct elements in every window
+
+4. Array Pair Sum Divisibility Problem
+
+5. Longest consecutive subsequence
+
+6. Array Subset of another array
+
+7. Find all pairs with a given sum
+
+8. Find first repeated character
+
+9. Zero Sum Subarrays
+
+10. Minimum indexed character
+
+11. Check if two arrays are equal or not
+
+12. Uncommon characters
+
+13. Smallest window in a string containing all the characters of another string
+
+14. First element to occur k times
+
+15. Check if frequencies can be equal
 
 
 ### Graph :
 
-Depth First Traversal
-Breadth First Traversal
-Detect cycle in a directed graph
-Topological sort
-Find the number of islands
-Implementing Dijkstra
-Minimum Swaps
-Strongly Connected Components
-Shortest Source to Destination Path
-Find whether path exist
-Minimum Cost Path
-Circle of Strings
-Floyd Warshall
-Alien Dictionary
-Snake and Ladder Problem
+1. Depth First Traversal
+
+2. Breadth First Traversal
+
+3. Detect cycle in a directed graph
+
+4. Topological sort
+
+5. Find the number of islands
+
+6. Implementing Dijkstra
+
+7. Minimum Swaps
+
+8. Strongly Connected Components
+
+9. Shortest Source to Destination Path
+
+10. Find whether path exist
+
+11. Minimum Cost Path
+
+12. Circle of Strings
+
+13. Floyd Warshall
+
+14. Alien Dictionary
+
+15. Snake and Ladder Problem
 
 
 ### Greedy :
